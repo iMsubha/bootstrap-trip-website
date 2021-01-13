@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Euphoria+Script&display=swap');
+/* font-family: 'Euphoria Script', cursive;
+  / / #FF4057; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .bg-color{
+    background-color: #fff;
+    font-family: 'Euphoria Script', cursive;  
+} */
+
+#trip-navbar-brand > a{
+    font-size: 2rem;
+    color: #FF4057;
+    font-weight: 700;
+    font-family: 'Euphoria Script', cursive;
+}
+.trip-nav{
+    font-family: 'Euphoria Script', cursive;
+    font-size: 1.5rem;
+    letter-spacing: .2rem;
+}
+.text-effect:hover{
+    color: #FF4057 !important;
+}
+/* .navbar-nav > li > .dropdown-menu { background-color: #FF0000 !important;} */
